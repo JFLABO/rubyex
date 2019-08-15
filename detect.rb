@@ -15,3 +15,4 @@ p o.name
 p p.name
 p q.name
 
+p MyRegex.get_cnt

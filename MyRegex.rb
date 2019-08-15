@@ -1,5 +1,10 @@
 # coding: utf-8
 class MyRegex
+  @@cnt = 0
+  def initialize()
+  #def initialize(counter_name)
+    @@cnt+=1
+  end
   def name
     @name
   end
@@ -7,6 +12,11 @@ class MyRegex
   def name=(name)
     @name = name
   end
+  
+  def self.get_cnt
+    @@cnt
+  end
+  
   #これからやること
 
   #まず、文字コードはなんですか？
