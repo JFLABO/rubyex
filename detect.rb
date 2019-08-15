@@ -14,3 +14,4 @@ q.name = "いもむし"
 p o.name
 p p.name
 p q.name
+
