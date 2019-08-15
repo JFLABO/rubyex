@@ -1,7 +1,7 @@
 # rubyex
 http://jflabo.org/lucky.php
 
-[RUBIC-J](るびっくじぇい)日本用言語処理シリーズ  
+RUBIC-J　(るびっくじぇい)日本用言語処理シリーズ  
 
 RUBIC-Jシリーズ  
 RUBIC-J-TO　東芝の人が主に東芝のために保証したプロダクト  
