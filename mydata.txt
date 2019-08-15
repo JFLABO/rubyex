@@ -1,6 +1,7 @@
+# coding: utf-8
 http://jflabo.org/lucky.php
 
-090-0000-9999 だみーでーたかけないでね
+090-0000-9999 だみーでーた
 
 system@jflabo.org
 
