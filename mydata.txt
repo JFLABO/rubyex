@@ -12,3 +12,11 @@ system@jflabo.org
 きっといいことあるよ
 
 Thank you!!
+
+pythonの脱皮に失敗
+
+日本語テキストを安定して処理できそうな
+Rubyでテキスト処理を研究することにしました。
+
+awkとshellとregexは３年で忘れる
+
