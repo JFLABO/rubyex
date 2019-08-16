@@ -2,6 +2,8 @@
 http://jflabo.org/lucky.php
 
 RUBIC-J　(るびっくじぇい)日本用言語処理シリーズ  
+![abstract basic design](https://raw.githubusercontent.com/JFLABO/rubyex/master/RUBIC-J.png)
+
 
 RUBIC-Jシリーズ  
 RUBIC-J-TO　東芝の人が主に東芝のために保証したプロダクト  
