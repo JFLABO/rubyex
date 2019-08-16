@@ -39,6 +39,8 @@
 
 #d)ぶちょー　んー　そういうことがあったか　これ人件費：承認
 
+#　©
+
 class MyRegex
   @@cnt = 0
   def initialize()
