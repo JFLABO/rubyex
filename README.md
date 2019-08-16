@@ -41,4 +41,5 @@ RUBIC-J-PA　Panasonicの人が設備を貸して製造したプロダクト
  
  RUBIC-Jで定義された  
  Rubyが使うメモリバンクは  
- Rubyでしかアクセスできない(ROM)
+ Rubyでしかアクセスできない  
+ Rubyの挙動は(ROM)を読み出し変更できない設計
