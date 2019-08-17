@@ -29,5 +29,11 @@ class Cerberus
   def self.GuardMe
     @@cnt
   end
+  #誰だお前は？
+  #ここに何しに来た？目的を言え
+
+  #お前は有益だ　入ってもいい
+
+  #前は有害だ　立ち去れ
   
 end
