@@ -1,3 +1,15 @@
+©RUBIC-J　(るびっくじぇい)はRubyがまともに動くことが保証された回路のことで
+プロデューサーが好きなように改造できます。
+
+10Gbitイーサネットをつけてみたり、独自の回路をBUSでつなげます。
+
+RUBIC-J Toyota
+RUBIC-J Honda
+RUBIC-J Kawasaki
+RUBIC-J fanuc
+RUBIC-J ishida
+などが出ることを期待しています。
+
 RubyOnRailsがさくっと動く  
 　bundle install 済みの状態で配布
  
