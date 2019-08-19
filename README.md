@@ -65,3 +65,4 @@ RUBIC-J-PA　Panasonicの人が設備を貸して製造したプロダクト
  AI bypass 8K時代を快適に過ごすために新しく再設計するチームリーダーが  
  現れるかもしれません。
  
+![abstract basic design](https://phoenixts.com/wp-content/uploads/2018/03/comptia-logo-large_png-300x81.png)
