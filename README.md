@@ -1,7 +1,5 @@
 # rubyex
 http://jflabo.org/lucky.php
-![abstract basic design](https://phoenixts.com/wp-content/uploads/2018/03/comptia-logo-large_png-300x81.png)
-![abstract basic design](https://www.certificationcamps.com/wp-content/uploads/2015/01/microsoft-certified-professional.jpg)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
 
@@ -67,3 +65,5 @@ RUBIC-J-PA　Panasonicの人が設備を貸して製造したプロダクト
  AI bypass 8K時代を快適に過ごすために新しく再設計するチームリーダーが  
  現れるかもしれません。
  
+![abstract basic design](https://phoenixts.com/wp-content/uploads/2018/03/comptia-logo-large_png-300x81.png)
+![abstract basic design](https://www.certificationcamps.com/wp-content/uploads/2015/01/microsoft-certified-professional.jpg)
