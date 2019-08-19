@@ -3,7 +3,7 @@ http://jflabo.org/lucky.php
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
 
-Thank you for everything!!
+Thank you for everything!!RUBIC was global mass productions!!Be Happy!!
 
 ©RUBIC-J　(るびっくじぇい)日本用言語処理シリーズ  
 ![abstract basic design](https://raw.githubusercontent.com/JFLABO/rubyex/master/RUBIC-J.png)
