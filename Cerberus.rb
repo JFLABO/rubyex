@@ -36,4 +36,9 @@ class Cerberus
 
   #前は有害だ　立ち去れ
   
+  #そこのROMは著作権で保護されている　コピーは禁止だ
+  #この画面から購入すると見れるようになる
+  #http://jflabo.org/pay/
+  
+  
 end
